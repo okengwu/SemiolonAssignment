@@ -1,0 +1,17 @@
+// IHS challenge ......
+
+public class Employer{
+
+	private String firstName;
+	private String lastName;
+	private int employerId;
+	
+public void setname(); {
+
+public String getname(); {
+
+}
+  
+}
+
+}	

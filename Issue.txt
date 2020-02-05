@@ -1,0 +1,23 @@
+// IHS challenge 
+
+public class Issue {
+
+private String issueId;
+private String type;
+private String description;
+private String priorty;
+
+//method declarions
+
+public void setissueDetails(){
+
+}
+
+public String getissueDetails(){
+
+}
+
+
+}
+
+
